@@ -1,0 +1,19 @@
+{
+    "name": "harshilkaneria/jsonbash",
+    "description": "A PHP Function for Generating Basic Structure for Json Response Like Status , Message , Data.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harshil Kaneria",
+            "email": "harshilkaneria00@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Json\\Bash\\": "src"
+        }
+    },
+    "require": {
+    }
+}
